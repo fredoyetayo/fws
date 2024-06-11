@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Transforming Ideas into Stunning Websites</description>
-	<lastBuildDate>Mon, 10 Jun 2024 16:53:01 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jun 2024 11:43:00 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,5 +27,22 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>Google Lighthouse speed score &#8211; what is it and why does it matter?</title>
+		<link>/google-lighthouse-speed-score-what-is-it-and-why-does-it-matter/</link>
+		
+		<dc:creator><![CDATA[fws]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 11:43:00 +0000</pubDate>
+				<category><![CDATA[Website Performance]]></category>
+		<guid isPermaLink="false">/?p=79</guid>
+
+					<description><![CDATA[<p>The post <a href="/google-lighthouse-speed-score-what-is-it-and-why-does-it-matter/">Google Lighthouse speed score &#8211; what is it and why does it matter?</a> appeared first on <a href="/">Fred Web Studio</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="/google-lighthouse-speed-score-what-is-it-and-why-does-it-matter/">Google Lighthouse speed score &#8211; what is it and why does it matter?</a> appeared first on <a href="/">Fred Web Studio</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
 </rss>
