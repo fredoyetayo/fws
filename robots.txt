@@ -1,0 +1,9 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow: /wp-json/
+Disallow: /?rest_route=
+
+Sitemap: https://fred-web-studio.local/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
