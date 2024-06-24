@@ -1353,7 +1353,24 @@ jQuery(document).ready(function(){
 	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','');</script>		<a id="pojo-a11y-skip-content" class="pojo-skip-link pojo-skip-content" tabindex="1" accesskey="s" href="#content">Skip to content</a>
-				<nav id="pojo-a11y-toolbar" class="pojo-a11y-toolbar-left pojo-a11y-" role="navigation">
+		<script type="text/javascript">document.addEventListener('DOMContentLoaded', function() {
+    var chatVisible = true;
+    var toggleButton = document.querySelector('.toggle-chat-button'); // Change this to the class of your button
+
+    toggleButton.addEventListener('click', function() {
+        var tawkIframe = document.querySelector('iframe[src*="tawk.to"]');
+
+        if (tawkIframe) {
+            if (chatVisible) {
+                tawkIframe.style.display = 'none';
+            } else {
+                tawkIframe.style.display = 'block';
+            }
+            chatVisible = !chatVisible;
+        }
+    });
+});</script>
+		<nav id="pojo-a11y-toolbar" class="pojo-a11y-toolbar-left pojo-a11y-" role="navigation">
 			<div class="pojo-a11y-toolbar-toggle">
 				<a class="pojo-a11y-toolbar-link pojo-a11y-toolbar-toggle-link" href="javascript:void(0);" title="Accessibility Tools" role="button">
 					<span class="pojo-sr-only sr-only">Open toolbar</span>
@@ -1426,6 +1443,6 @@ jQuery(document).ready(function(){
 									</div>
 			</div>
 		</nav>
-			<script type="module">import detect from "\/wp-content\/plugins\/optimization-detective\/detect.js"; detect( {"serveTime":1719262328818.28,"detectionTimeWindow":5000,"isDebug":false,"restApiEndpoint":"\/wp-json\/optimization-detective\/v1\/url-metrics:store","restApiNonce":"d4a3081afa","currentUrl":"\/new-home\/?simply_static_page=16043","urlMetricsSlug":"9a7f8f8ef5c8939edb1ca262504ee5b2","urlMetricsNonce":"58ab0a1712","urlMetricsGroupStatuses":[{"minimumViewportWidth":0,"complete":false},{"minimumViewportWidth":481,"complete":false},{"minimumViewportWidth":601,"complete":false},{"minimumViewportWidth":783,"complete":false}],"storageLockTTL":60,"webVitalsLibrarySrc":"\/wp-content\/plugins\/optimization-detective\/build\/web-vitals.js"} );</script>
+			<script type="module">import detect from "\/wp-content\/plugins\/optimization-detective\/detect.js"; detect( {"serveTime":1719265566344.5791,"detectionTimeWindow":5000,"isDebug":false,"restApiEndpoint":"\/wp-json\/optimization-detective\/v1\/url-metrics:store","restApiNonce":"d4a3081afa","currentUrl":"\/new-home\/?simply_static_page=16866","urlMetricsSlug":"9a7f8f8ef5c8939edb1ca262504ee5b2","urlMetricsNonce":"79b74258a8","urlMetricsGroupStatuses":[{"minimumViewportWidth":0,"complete":false},{"minimumViewportWidth":481,"complete":false},{"minimumViewportWidth":601,"complete":false},{"minimumViewportWidth":783,"complete":false}],"storageLockTTL":60,"webVitalsLibrarySrc":"\/wp-content\/plugins\/optimization-detective\/build\/web-vitals.js"} );</script>
 </body>
 </html>
