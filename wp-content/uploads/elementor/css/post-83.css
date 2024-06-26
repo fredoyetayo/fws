@@ -18,3 +18,12 @@
     75% {background-color: #2980b9;} /* third transition color */
     100% {background-color: #e74c3c;} /* return to start color */
 }/* End custom CSS */
+/* Start custom CSS for nested-carousel, class: .elementor-element-b3ad073 */.elementor-83 .elementor-element.elementor-element-b3ad073 .swiper-wrapper {
+    display: flex;
+    animation: marquee 15s linear infinite;
+}
+
+@keyframes marquee {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+}/* End custom CSS */
