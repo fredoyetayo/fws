@@ -36,20 +36,20 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/contact/</loc>
-		<lastmod>2024-06-26T13:45:58+00:00</lastmod>
+		<loc>/new-home/</loc>
+		<lastmod>2024-06-28T10:49:34+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/fws-1-jpg.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/06/Fred-Web-Studio.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Fred-Web-Studio.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/new-home/</loc>
-		<lastmod>2024-06-26T20:59:12+00:00</lastmod>
+		<loc>/contact/</loc>
+		<lastmod>2024-06-28T10:57:19+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/Fred-Web-Studio.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/Fred-Web-Studio.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/06/fws-1-jpg.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
