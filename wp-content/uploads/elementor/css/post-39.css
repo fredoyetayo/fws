@@ -5,7 +5,12 @@
     padding: 0 50px;
 }
 
-.iCJCmn {
+.iCJCmn .eEnwEV {
+    visibility: hidden;
+}
+
+.eEnwEV
+{
     visibility: hidden;
 }/* End custom CSS */
 /* Start custom CSS for html, class: .elementor-element-2b8ce74 */a:active, a:hover {
