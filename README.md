@@ -1,8 +1,5 @@
 # fws
 
-
-
-```markdown
 # Fred Web Studio Website
 
 Welcome to the GitHub repository for the official website of Fred Web Studio. This repository contains the source code and assets for the website, which showcases the web design and development services offered by Fred Web Studio.
