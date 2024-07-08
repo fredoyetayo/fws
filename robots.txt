@@ -4,6 +4,6 @@ User-agent: *
 Disallow: /wp-json/
 Disallow: /?rest_route=
 
-Sitemap: https://fredwebstudio.co.uk/sitemap_index.xml
+Sitemap: https://fred-web-studio.local/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK
