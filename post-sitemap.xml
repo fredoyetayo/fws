@@ -1,42 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/best-website-designer-in-reading/</loc>
-		<lastmod>2024-07-08T15:22:22+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/website-designer-in-caversham/</loc>
-		<lastmod>2024-07-08T15:22:41+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/website-designer-in-henley-on-thames/</loc>
-		<lastmod>2024-07-08T15:23:24+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/why-fred-web-studio/</loc>
-		<lastmod>2024-07-09T14:09:11+00:00</lastmod>
+		<lastmod>2024-07-10T13:11:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/nwaetf6qo0-jpg.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/nwaetf6qo0-jpg.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/google-lighthouse-speed-score/</loc>
+		<lastmod>2024-07-10T13:11:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/8315974-jpg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/8315974-jpg.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/best-website-designer-in-reading/</loc>
+		<lastmod>2024-07-10T13:11:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/website-designer-in-henley-on-thames/</loc>
+		<lastmod>2024-07-10T13:11:58+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/8236919-jpg.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/website-designer-in-tilehurst/</loc>
-		<lastmod>2024-07-09T14:53:42+00:00</lastmod>
+		<lastmod>2024-07-10T13:12:03+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/whj5l9kgtl4-jpg.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/google-lighthouse-speed-score/</loc>
-		<lastmod>2024-07-09T15:06:04+00:00</lastmod>
+		<loc>/the-importance-of-having-a-website/</loc>
+		<lastmod>2024-07-10T13:16:36+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/8315974-jpg.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/u8jn2rzyips-jpg.webp</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>/website-designer-in-caversham/</loc>
+		<lastmod>2024-07-10T13:24:02+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/8315974-jpg.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/de95b028-dfa5-4f70-900c-eb6d8367b323-jpg.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
