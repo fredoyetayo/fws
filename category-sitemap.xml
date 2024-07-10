@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/category/promotions/</loc>
+		<loc>http://fredwebstudio.co.uk/category/promotions/</loc>
 		<lastmod>2024-07-10T13:24:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/uncategorized/</loc>
+		<loc>http://fredwebstudio.co.uk/category/uncategorized/</loc>
 		<lastmod>2024-07-10T13:11:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/website-performance/</loc>
+		<loc>http://fredwebstudio.co.uk/category/website-performance/</loc>
 		<lastmod>2024-07-10T13:11:34+00:00</lastmod>
 	</url>
 </urlset>
