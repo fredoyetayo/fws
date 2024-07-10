@@ -4,7 +4,7 @@
 		<loc>http://fredwebstudio.co.uk/</loc>
 		<lastmod>2024-07-08T15:21:10+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/fws-jpg.webp</image:loc>
+			<image:loc>http://fredwebstudio.co.uk/wp-content/uploads/2024/07/fws-jpg.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -15,21 +15,21 @@
 		<loc>http://fredwebstudio.co.uk/about/</loc>
 		<lastmod>2024-06-14T12:12:56+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/fws-1-jpg.webp</image:loc>
+			<image:loc>http://fredwebstudio.co.uk/wp-content/uploads/2024/06/fws-1-jpg.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>http://fredwebstudio.co.uk/home/</loc>
 		<lastmod>2024-06-25T12:38:13+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/fws-1-jpg.webp</image:loc>
+			<image:loc>http://fredwebstudio.co.uk/wp-content/uploads/2024/06/fws-1-jpg.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>http://fredwebstudio.co.uk/contact/</loc>
 		<lastmod>2024-07-08T13:42:17+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/fws-1-jpg.webp</image:loc>
+			<image:loc>http://fredwebstudio.co.uk/wp-content/uploads/2024/06/fws-1-jpg.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -44,13 +44,13 @@
 		<loc>http://fredwebstudio.co.uk/case-studies/cohaesio/</loc>
 		<lastmod>2024-07-09T15:12:43+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/fws-cohesio-web-1024x647.png</image:loc>
+			<image:loc>http://fredwebstudio.co.uk/wp-content/uploads/2024/06/fws-cohesio-web-1024x647.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/fred-web-studio-1-1024x1024.png</image:loc>
+			<image:loc>http://fredwebstudio.co.uk/wp-content/uploads/2024/06/fred-web-studio-1-1024x1024.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/fws-cohaesio.png</image:loc>
+			<image:loc>http://fredwebstudio.co.uk/wp-content/uploads/2024/06/fws-cohaesio.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
