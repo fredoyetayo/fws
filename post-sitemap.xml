@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://fredwebstudio.co.uk/why-fred-web-studio/</loc>
+		<loc>/why-fred-web-studio/</loc>
 		<lastmod>2024-07-10T13:11:26+00:00</lastmod>
 		<image:image>
-			<image:loc>http://fredwebstudio.co.uk/wp-content/uploads/2024/07/nwaetf6qo0-jpg.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/nwaetf6qo0-jpg.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://fredwebstudio.co.uk/wp-content/uploads/2024/07/nwaetf6qo0-jpg.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/nwaetf6qo0-jpg.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://fredwebstudio.co.uk/google-lighthouse-speed-score/</loc>
+		<loc>/google-lighthouse-speed-score/</loc>
 		<lastmod>2024-07-10T13:11:34+00:00</lastmod>
 		<image:image>
-			<image:loc>http://fredwebstudio.co.uk/wp-content/uploads/2024/07/8315974-jpg.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/8315974-jpg.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://fredwebstudio.co.uk/wp-content/uploads/2024/07/8315974-jpg.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/8315974-jpg.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://fredwebstudio.co.uk/best-website-designer-in-reading/</loc>
+		<loc>/best-website-designer-in-reading/</loc>
 		<lastmod>2024-07-10T13:11:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://fredwebstudio.co.uk/website-designer-in-henley-on-thames/</loc>
+		<loc>/website-designer-in-henley-on-thames/</loc>
 		<lastmod>2024-07-10T13:11:58+00:00</lastmod>
 		<image:image>
-			<image:loc>http://fredwebstudio.co.uk/wp-content/uploads/2024/07/8236919-jpg.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/8236919-jpg.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://fredwebstudio.co.uk/website-designer-in-tilehurst/</loc>
+		<loc>/website-designer-in-tilehurst/</loc>
 		<lastmod>2024-07-10T13:12:03+00:00</lastmod>
 		<image:image>
-			<image:loc>http://fredwebstudio.co.uk/wp-content/uploads/2024/07/whj5l9kgtl4-jpg.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/whj5l9kgtl4-jpg.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://fredwebstudio.co.uk/the-importance-of-having-a-website/</loc>
+		<loc>/the-importance-of-having-a-website/</loc>
 		<lastmod>2024-07-10T13:16:36+00:00</lastmod>
 		<image:image>
-			<image:loc>http://fredwebstudio.co.uk/wp-content/uploads/2024/07/u8jn2rzyips-jpg.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/u8jn2rzyips-jpg.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://fredwebstudio.co.uk/website-designer-in-caversham/</loc>
+		<loc>/website-designer-in-caversham/</loc>
 		<lastmod>2024-07-10T13:24:02+00:00</lastmod>
 		<image:image>
-			<image:loc>http://fredwebstudio.co.uk/wp-content/uploads/2024/07/de95b028-dfa5-4f70-900c-eb6d8367b323-jpg.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/de95b028-dfa5-4f70-900c-eb6d8367b323-jpg.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
